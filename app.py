@@ -25,6 +25,10 @@ def load_data():
     return data
 
 
+def useless_fn():
+    pass
+
+
 # Cargar datos
 data = load_data()
 
